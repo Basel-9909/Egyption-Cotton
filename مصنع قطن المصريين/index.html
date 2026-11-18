@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173c32">
+  <meta name="description" content="Egyptian Cotton Factory — ملابس قطنية مختارة للعائلة. تسوق التشكيلة واختار اللون والمقاس المناسب.">
+  <title>Egyptian Cotton Factory | قطن مصري لكل يوم</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="announcement">قطن مصري، راحة تلبسها كل يوم <span>•</span> التوصيل لكل أنحاء مصر</div>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="الصفحة الرئيسية">
+      <img class="brand-logo" src="assets/logo-crop.jpg" alt="شعار قطن المصريين — Egyptian Cotton, Since 2023">
+      <span class="brand-name">EGYPTIAN COTTON <b>FACTORY</b></span>
+    </a>
+    <nav class="main-nav" aria-label="التنقل الرئيسي">
+      <a href="#home">الرئيسية</a><a href="#shop">التشكيلة</a><a href="#shop?category=kids">ملابس الأطفال</a>
+    </nav>
+    <div class="header-actions">
+      <a class="phone-link" href="tel:01004206146" aria-label="اتصل بنا">0100 420 6146</a>
+      <button class="cart-button" id="cart-open" aria-label="افتح سلة المشتريات"><span class="cart-icon">▱</span><span>السلة</span><i id="cart-count">0</i></button>
+      <button class="menu-button" id="menu-toggle" aria-label="فتح القائمة">☰</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <section class="hero" id="home">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> صناعة مصرية بكل فخر</p>
+        <h1>قطن طبيعي.<br><em>راحة تدوم.</em></h1>
+        <p class="hero-text">قطع أساسية للعيلة، بخامة قطنية مريحة وتفاصيل بسيطة تعيش معاك كل يوم.</p>
+        <a href="#shop" class="button button-light">اكتشف التشكيلة <span>←</span></a>
+        <div class="hero-note"><span>✳</span> خامات مختارة بعناية</div>
+      </div>
+      <div class="hero-art" aria-label="تشكيلة من الملابس القطنية">
+        <div class="hero-image-wrap"><img id="hero-photo" src="assets/products/adult-01.jpeg" alt="قطعة من التشكيلة القطنية"></div>
+        <div class="hero-stamp"><small>MADE WITH</small><b>EGYPTIAN<br>COTTON</b><span>✳</span></div>
+        <div class="hero-side-label">EVERYDAY ESSENTIALS · EGYPT</div>
+      </div>
+      <div class="hero-bottom"><span>01 — الراحة تبدأ من الخامة</span><span>SCROLL TO EXPLORE ↓</span></div>
+    </section>
+
+    <section class="trust-strip" aria-label="مميزات المتجر">
+      <div><span>✳</span><b>قطن مريح</b><small>للاستخدام اليومي</small></div><div><span>◇</span><b>تفاصيل عملية</b><small>مصممة لحركتك</small></div><div><span>↗</span><b>توصيل داخل مصر</b><small>من Kafr Saqr إليك</small></div>
+    </section>
+
+    <section class="collection section-wrap" id="shop">
+      <div class="section-heading"><div><p class="eyebrow dark"><span></span> اكتشف اختياراتنا</p><h2>التشكيلة <em>الأساسية</em></h2></div><a class="text-link" href="#shop">كل المنتجات <span>←</span></a></div>
+      <div class="shop-toolbar">
+        <div class="filter-tabs" role="tablist" aria-label="تصفية المنتجات"><button class="filter active" data-filter="all">الكل <small id="all-count"></small></button><button class="filter" data-filter="adult">الكبار</button><button class="filter" data-filter="kids">الأطفال</button></div>
+        <label class="search-box"><span>⌕</span><input type="search" id="search" placeholder="ابحث في التشكيلة" aria-label="ابحث في التشكيلة"></label>
+      </div>
+      <div class="product-grid" id="product-grid"><div class="loading-state">لحظة واحدة، بنجهز التشكيلة…</div></div>
+    </section>
+
+    <section class="about-band"><div class="about-symbol">ECF<span>✳</span></div><div><p class="eyebrow"><span></span> قطن المصريين</p><h2>من قلب مصر،<br>لراحة كل يوم.</h2></div><p>نؤمن إن القطعة الحلوة تبدأ بخامة مريحة وتصميم يعيش. اختار قطعتك، لونك، ومقاسك — والباقي علينا.</p><a class="button button-outline" href="#shop">تسوق الآن <span>←</span></a></section>
+
+    <section class="contact-section section-wrap"><div><p class="eyebrow dark"><span></span> محتاج مساعدة؟</p><h2>إحنا قريبين منك.</h2><p>كلمنا للاستفسار عن الأسعار والتوصيل أو لمساعدتك في اختيار القطعة المناسبة.</p></div><div class="contact-cards"><a href="tel:01004206146"><small>اتصل بنا</small><b>0100 420 6146</b></a><a href="tel:01060206478"><small>اتصل بنا</small><b>0106 020 6478</b></a><a href="https://www.instagram.com/msnqtnalmsryyn?xtok=MXNmYzJqZ3RkMmF4" target="_blank" rel="noreferrer"><small>تابعنا على</small><b>Instagram ↗</b></a><a href="https://www.facebook.com/share/1ZyLM88ojf/" target="_blank" rel="noreferrer"><small>تابعنا على</small><b>Facebook ↗</b></a></div></section>
+  </main>
+  <div id="product-view" hidden></div>
+
+  <footer class="site-footer"><a class="brand footer-brand" href="#home"><img class="brand-logo" src="assets/logo-crop.jpg" alt="شعار قطن المصريين — Egyptian Cotton, Since 2023"><span class="brand-name">EGYPTIAN COTTON <b>FACTORY</b></span></a><p>قطن مصري، راحة تلبسها كل يوم.</p><a href="https://maps.google.com/?q=Kafr+Saqr,+Egypt" target="_blank" rel="noreferrer">Kafr Saqr, Egypt ↗</a><small>© 2026 Egyptian Cotton Factory</small></footer>
+
+  <div class="overlay" id="overlay"></div>
+  <aside class="cart-drawer" id="cart-drawer" aria-label="سلة المشتريات" aria-hidden="true"><div class="drawer-head"><div><small>اختياراتك</small><h2>سلة المشتريات</h2></div><button class="icon-button" id="cart-close" aria-label="إغلاق السلة">×</button></div><div id="cart-items" class="cart-items"></div><div class="cart-bottom"><div class="cart-total"><span>الإجمالي المعروف</span><b id="cart-total">٠ ج.م</b></div><p>أسعار قطع الكبار والتوصيل يتم تأكيدها عند التواصل.</p><div class="cart-phones"><a href="tel:01004206146">اتصل 0100 420 6146</a><a href="tel:01060206478">اتصل 0106 020 6478</a></div></div></aside>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="assets/products-data.js"></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

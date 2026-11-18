@@ -1,0 +1,491 @@
+[
+  {
+    "id": "adult-1",
+    "title": "قطعة قطنية 01",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-01.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-2",
+    "title": "قطعة قطنية 02",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-02.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-3",
+    "title": "قطعة قطنية 03",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-03.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-4",
+    "title": "قطعة قطنية 04",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-04.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-5",
+    "title": "قطعة قطنية 05",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-05.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-6",
+    "title": "قطعة قطنية 06",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-06.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-7",
+    "title": "قطعة قطنية 07",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-07.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-08.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-09.jpeg",
+        "color": "لون 3"
+      }
+    ]
+  },
+  {
+    "id": "adult-8",
+    "title": "قطعة قطنية 08",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-10.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-11.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-12.jpeg",
+        "color": "لون 3"
+      }
+    ]
+  },
+  {
+    "id": "adult-9",
+    "title": "قطعة قطنية 09",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-13.jpeg",
+        "color": "لون 1"
+      }
+    ]
+  },
+  {
+    "id": "adult-10",
+    "title": "قطعة قطنية 10",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-14.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-15.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-16.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-17.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-18.jpeg",
+        "color": "لون 5"
+      },
+      {
+        "image": "assets/products/adult-19.jpeg",
+        "color": "لون 6"
+      }
+    ]
+  },
+  {
+    "id": "adult-11",
+    "title": "قطعة قطنية 11",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-20.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-21.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-22.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-23.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-24.jpeg",
+        "color": "لون 5"
+      }
+    ]
+  },
+  {
+    "id": "adult-12",
+    "title": "قطعة قطنية 12",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-25.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-26.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-27.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-28.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-29.jpeg",
+        "color": "لون 5"
+      },
+      {
+        "image": "assets/products/adult-30.jpeg",
+        "color": "لون 6"
+      }
+    ]
+  },
+  {
+    "id": "adult-13",
+    "title": "قطعة قطنية 13",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-31.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-32.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-33.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-34.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-35.jpeg",
+        "color": "لون 5"
+      },
+      {
+        "image": "assets/products/adult-36.jpeg",
+        "color": "لون 6"
+      }
+    ]
+  },
+  {
+    "id": "adult-14",
+    "title": "قطعة قطنية 14",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-37.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-38.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-39.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-40.jpeg",
+        "color": "لون 4"
+      }
+    ]
+  },
+  {
+    "id": "adult-15",
+    "title": "قطعة قطنية 15",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-41.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-42.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-43.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-44.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-45.jpeg",
+        "color": "لون 5"
+      },
+      {
+        "image": "assets/products/adult-46.jpeg",
+        "color": "لون 6"
+      }
+    ]
+  },
+  {
+    "id": "adult-16",
+    "title": "قطعة قطنية 16",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-47.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-48.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-49.jpeg",
+        "color": "لون 3"
+      },
+      {
+        "image": "assets/products/adult-50.jpeg",
+        "color": "لون 4"
+      },
+      {
+        "image": "assets/products/adult-51.jpeg",
+        "color": "لون 5"
+      }
+    ]
+  },
+  {
+    "id": "adult-17",
+    "title": "قطعة قطنية 17",
+    "category": "رجالي",
+    "audience": "adult",
+    "colors": [
+      {
+        "image": "assets/products/adult-52.jpeg",
+        "color": "لون 1"
+      },
+      {
+        "image": "assets/products/adult-53.jpeg",
+        "color": "لون 2"
+      },
+      {
+        "image": "assets/products/adult-54.jpeg",
+        "color": "لون 3"
+      }
+    ]
+  },
+  {
+    "id": "kids-set",
+    "title": "طقم أطفال قطعتين",
+    "category": "أطفال",
+    "audience": "kids",
+    "price": 600,
+    "ages": {
+      "8": [
+        {
+          "image": "assets/products/kids-8-01.jpeg",
+          "color": "لون 1"
+        },
+        {
+          "image": "assets/products/kids-8-02.jpeg",
+          "color": "لون 2"
+        },
+        {
+          "image": "assets/products/kids-8-03.jpeg",
+          "color": "لون 3"
+        },
+        {
+          "image": "assets/products/kids-8-04.jpeg",
+          "color": "لون 4"
+        },
+        {
+          "image": "assets/products/kids-8-05.jpeg",
+          "color": "لون 5"
+        },
+        {
+          "image": "assets/products/kids-8-06.jpeg",
+          "color": "لون 6"
+        },
+        {
+          "image": "assets/products/kids-8-07.jpeg",
+          "color": "لون 7"
+        },
+        {
+          "image": "assets/products/kids-8-08.jpeg",
+          "color": "لون 8"
+        },
+        {
+          "image": "assets/products/kids-8-09.jpeg",
+          "color": "لون 9"
+        }
+      ],
+      "6": [
+        {
+          "image": "assets/products/kids-6-01.jpeg",
+          "color": "لون 1"
+        },
+        {
+          "image": "assets/products/kids-6-02.jpeg",
+          "color": "لون 2"
+        },
+        {
+          "image": "assets/products/kids-6-03.jpeg",
+          "color": "لون 3"
+        },
+        {
+          "image": "assets/products/kids-6-04.jpeg",
+          "color": "لون 4"
+        },
+        {
+          "image": "assets/products/kids-6-05.jpeg",
+          "color": "لون 5"
+        },
+        {
+          "image": "assets/products/kids-6-06.jpeg",
+          "color": "لون 6"
+        },
+        {
+          "image": "assets/products/kids-6-07.jpeg",
+          "color": "لون 7"
+        },
+        {
+          "image": "assets/products/kids-6-08.jpeg",
+          "color": "لون 8"
+        },
+        {
+          "image": "assets/products/kids-6-09.jpeg",
+          "color": "لون 9"
+        }
+      ],
+      "10": [
+        {
+          "image": "assets/products/kids-10-01.jpeg",
+          "color": "لون 1"
+        },
+        {
+          "image": "assets/products/kids-10-02.jpeg",
+          "color": "لون 2"
+        },
+        {
+          "image": "assets/products/kids-10-03.jpeg",
+          "color": "لون 3"
+        },
+        {
+          "image": "assets/products/kids-10-04.jpeg",
+          "color": "لون 4"
+        },
+        {
+          "image": "assets/products/kids-10-05.jpeg",
+          "color": "لون 5"
+        },
+        {
+          "image": "assets/products/kids-10-06.jpeg",
+          "color": "لون 6"
+        }
+      ],
+      "12": [
+        {
+          "image": "assets/products/kids-12-01.jpeg",
+          "color": "لون 1"
+        },
+        {
+          "image": "assets/products/kids-12-02.jpeg",
+          "color": "لون 2"
+        },
+        {
+          "image": "assets/products/kids-12-03.jpeg",
+          "color": "لون 3"
+        },
+        {
+          "image": "assets/products/kids-12-04.jpeg",
+          "color": "لون 4"
+        },
+        {
+          "image": "assets/products/kids-12-05.jpeg",
+          "color": "لون 5"
+        },
+        {
+          "image": "assets/products/kids-12-06.jpeg",
+          "color": "لون 6"
+        }
+      ]
+    }
+  }
+]
